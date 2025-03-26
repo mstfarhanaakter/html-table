@@ -1,1 +1,42 @@
-
+<!doctype html>
+<html>
+	<head>
+		<title>
+			Table Example
+		</title>
+	</head>
+<body>
+	<h1>
+		Html Table Example
+	</h1>
+	<table border="1">
+	<tr>
+		<th>First Name</th><th>Last Name</th><th>ID No.</th>
+	</tr>
+	<tr>
+		<td>Farhana</td><td>Shetu</td><td>24</td>
+	</tr>
+	<tr>
+		<td>Sobita</td><td>Ray</td><td>27</td>
+	</tr>
+	<tr>
+		<td>Ishtiaque</td><td>Islam Khan</td><td>22</td>
+	</tr>
+	<tr>
+		<td>Ashrafunnahar</td><td>Priya</td><td>14</td>
+	</tr>
+	<tr>
+		<td>Rini</td><td>Akter</td><td>51</td>
+	</tr>
+	<tr>
+		<td>Sadat</td><td>Mahfuz</td><td>26</td>
+	</tr>
+	<tr>
+		<td>Sabrina</td><td>Sharmin</td><td>04</td>
+	</tr>
+	<tr>
+		<td>Mohsina</td><td>Afroz</td><td>32</td>
+	</tr>
+	</table>	
+</body>
+</html>
