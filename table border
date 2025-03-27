@@ -4,12 +4,17 @@
 		<title>
 			Table Example
 		</title>
+	<style>
+		table, th, td{
+			border:1px solid tomato;
+					}
+	</style>
 	</head>
 <body>
 	<h1>
 		Html Table Example
 	</h1>
-	<table border="1">
+	<table style="width:100%; text-align:center">
 	<tr>
 		<th>First Name</th><th>Last Name</th><th>ID No.</th>
 	</tr>
